@@ -47,3 +47,12 @@ Attraverso un sistema di login semplice, l'Admin può accedere all'interfaccia i
 ## Sezione utenti
 
 Gli Utenti possono accedere alla parte pubblica del sito, visualizzare le categorie e i piatti disponibili. Hanno anche la possibilità di iscriversi alla newsletter e di annullare l'iscrizione.
+
+## Licenza
+
+Questo progetto è distribuito sotto la Licenza MIT - vedi il file [LICENSE](LICENSE) per ulteriori dettagli.
+
+
+## Autore
+
+Questo progetto è stato creato da [alessandromasone](https://github.com/alessandromasone).
